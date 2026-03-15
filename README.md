@@ -13,23 +13,20 @@ I enjoy working with **Python, SQL, Power BI, and AWS** to analyze data, develop
 
 # 🚀 Technical Skills
 
-## Programming
+## 🚀 Technical Skills
 
-Python • SQL • Java
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Data Analysis
+### 📊 Data Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-Exploratory Data Analysis (EDA)
-Data Cleaning & Preprocessing
-Statistical Analysis
-Data Interpretation
-
-## Data Visualization
-
-Power BI
-Excel
-Matplotlib
-Seaborn
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Data Science & Machine Learning
 

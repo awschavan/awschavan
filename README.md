@@ -80,7 +80,39 @@ Technologies: Python, Machine Learning
 
 ## ☁️ MarketPulse Pro Dashboard
 
-Data analytics dashboard developed using Python and deployed on AWS.
+A data analytics dashboard designed to analyze financial market data and provide insights into trends and performance.
+
+### 📌 Project Overview
+
+MarketPulse Pro is a data analytics dashboard that processes financial datasets and visualizes key metrics to help understand market behavior and investment trends.
+
+### 🛠 Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Flask
+* AWS EC2
+* HTML / CSS
+
+### 📊 Key Features
+
+* Data cleaning and preprocessing using **Pandas**
+* Exploratory Data Analysis (EDA)
+* Visualization of market trends using **Matplotlib**
+* Interactive dashboard interface
+* Deployment on **AWS EC2 cloud server**
+* Real-time analytics display
+
+### 🚀 Outcome
+
+* Built a cloud-hosted dashboard for financial data analysis
+* Demonstrated ability to combine **data analytics + visualization + cloud deployment**
+* Showcased practical skills in **Python-based analytics systems**
+
+🔗 Project Repository
+https://github.com/awschavan/marketpulse_pro_Project
 
 ---
 

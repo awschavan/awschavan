@@ -75,12 +75,22 @@ Technologies: Python, Pandas, Scikit-learn
 
 ## 🎵 Music Recommendation System
 
-Recommendation system that suggests music based on user preferences.
+A machine learning project that recommends songs based on similarity between music features.
+The system analyzes song metadata and user preferences to suggest similar tracks.
 
-Technologies: Python, Machine Learning
+**Features**
 
-🔗 https://github.com/awschavan/Music-Recommendation-System---project-1-
----
+* Content-based recommendation algorithm
+* Finds similar songs using cosine similarity
+* Interactive recommendation interface
+* Data preprocessing and feature extraction
+
+**Technologies Used**
+Python, Pandas, Scikit-learn, Machine Learning
+
+🔗 Project Link
+https://github.com/awschavan/Music-Recommendation-System---project-1-
+
 
 ## 📊 Live Stock Market Dashboard
 

@@ -74,6 +74,7 @@ Recommendation system that suggests music based on user preferences.
 
 Technologies: Python, Machine Learning
 
+🔗 https://github.com/awschavan/Music-Recommendation-System---project-1-
 ---
 
 

@@ -82,6 +82,14 @@ Technologies: Python, Machine Learning
 🔗 https://github.com/awschavan/Music-Recommendation-System---project-1-
 ---
 
+## 📊 Live Stock Market Dashboard
+
+Interactive dashboard to analyze stock market data with technical indicators, correlation analysis, and sentiment analysis from financial news.
+
+**Technologies:** Python, Streamlit, Pandas, Plotly, NLP
+
+🔗 https://github.com/awschavan/Live-Stock-Market-Dashboard
+
 
 ## ☁️ MarketPulse Pro Dashboard
 

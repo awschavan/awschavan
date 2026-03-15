@@ -13,45 +13,46 @@ I enjoy working with **Python, SQL, Power BI, and AWS** to analyze data, develop
 
 #🚀 Technical Skills
 
-Programming
+ Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Data Analysis
+ Data Analysis
 
 ![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-4CAF50?style=for-the-badge)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning%20%26%20Preprocessing-2196F3?style=for-the-badge)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-FF9800?style=for-the-badge)
 ![Data Interpretation](https://img.shields.io/badge/Data%20Interpretation-9C27B0?style=for-the-badge)
 
-Data Visualization
+ Data Visualization
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-Data Science & Machine Learning
+ Data Science & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-673AB7?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-009688?style=for-the-badge)
 
-Libraries
+ Libraries
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-Cloud & Deployment
+ Cloud & Deployment
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Boto3](https://img.shields.io/badge/Boto3-Python%20AWS%20SDK-blue?style=for-the-badge)
 
-Tools
+ Tools
 
 ![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

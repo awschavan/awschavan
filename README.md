@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swapnil Chavan
 
-🎓 MCA Student | Data Analyst | Data Scientist | AI Engineer
+🎓 MCA Student 
 
 I am passionate about transforming data into actionable insights and building intelligent systems using **Data Analytics, Machine Learning, and Cloud Technologies**.
 
